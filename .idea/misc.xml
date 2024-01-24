@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/116366313_CA2/app/src/main/res/layout/activity_home.xml" value="0.11141304347826086" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.146" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_add.xml" value="0.2265" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_drink_teal.xml" value="0.145" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_manage_accounts_white.xml" value="0.146" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_new_file_black.xml" value="0.2265" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_pizza_teal.xml" value="0.146" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/drawable/ic_subscriptions_white.xml" value="0.2265" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/acctivity_slider.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_account.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_add.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_edit.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_slider.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/activity_welcome.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/cart_row.xml" value="0.46709916589434664" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/sub_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/welcome_slide1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/welcome_slide2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/welcome_slide3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/layout/welcome_slide4.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/menu/menu_delte.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/shane/OneDrive - University College Cork/Desktop/116366313_CA2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.204" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

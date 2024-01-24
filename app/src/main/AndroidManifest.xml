@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.is6144.a116366313_ca2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.116366313_CA2">
+
+        <!-- Slider activity -->
+        <activity
+            android:exported="true"
+            android:name=".Slider.WelcomeActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Home activity -->
+        <activity
+            android:name=".Features.HomeActivity"
+            android:label="Welcome to the Homepage!"/>
+
+        <!-- Main activity -->
+        <activity
+            android:name=".Features.MainActivity"
+            android:label="Cart"/>
+
+        <!-- Add activity -->
+        <activity
+            android:name=".Features.AddActivity"
+            android:label="Add Pizza"
+            android:parentActivityName=".Features.MainActivity" />
+
+        <!-- User Account activity -->
+        <activity
+            android:name=".Features.AccountActivity"
+            android:label="Welcome to your Account"/>
+
+        <!--Edit activity -->
+        <activity
+            android:name=".Features.EditActivity"
+            android:parentActivityName=".Features.MainActivity"
+            android:label="Edit"/>
+
+    </application>
+
+</manifest>

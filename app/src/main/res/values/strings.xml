@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">116366313_CA2</string>
+    <string name="no_data">No Data</string>
+    <string name="sample_user_profile">Sample User Profile</string>
+
+    <!-- Home Activity Strings-->
+    <string name="pizza">PIZZA</string>
+    <string name="meal">MEALS</string>
+    <string name="drink">DRINKS</string>
+    <string name="treats">TREATS</string>
+    <string name="saved">SAVED</string>
+    <string name="logout">LOGOUT</string>
+
+    <!-- Menu Activity Strings-->
+    <string name="delete_all">Delete All</string>
+
+    <!-- Add Activity Strings-->
+    <string name="choose_size_e_g_7_inch">Choose Size e.g. 7 inch</string>
+    <string name="choose_base_e_g_thin">Choose Base e.g. Thin</string>
+    <string name="choose_sauce_e_g_tomato">Choose Sauce e.g. Tomato</string>
+    <string name="choose_cheese_e_g_mozzarella">Choose cheese e.g. Mozzarella</string>
+    <string name="choose_meat_e_g_pepperoni">Choose meat e.g. Pepperoni</string>
+
+    <string name="save">Save</string>
+
+
+    <!-- Edit Activity Strings-->
+    <string name="choose_size">Choose Size</string>
+    <string name="choose_base">Choose Base</string>
+    <string name="choose_sauce">Choose Sauce</string>
+    <string name="choose_cheese">Choose cheese</string>
+    <string name="choose_meat">Choose meat</string>
+
+    <string name="size">Size:</string>
+    <string name="base">Base:</string>
+    <string name="sauce">Sauce:</string>
+    <string name="cheese">Cheese:</string>
+    <string name="meat">Meat:</string>
+
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <!-- Sub row Activity Strings-->
+    <string name="_1">1</string>
+
+    <string name="size1">Size1</string>
+    <string name="base1">Base1</string>
+    <string name="sauce1">Sauce 1</string>
+    <string name="cheese1">Cheese 1</string>
+    <string name="meat1">Meat 1</string>
+    <string name="inch">Inch</string>
+
+    <!-- Slider Activity Strings-->
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+
+    <!-- Welcome Activity Strings-->
+
+    <string name="slide_1_welcome">Welcome to Big Siopa</string>
+    <string name="slide_1_welcome2">Shopping made easy</string>
+
+
+    <string name="slide_2_title">Online Shop</string>
+    <string name="slide_2_desc">Start shopping with us today!</string>
+
+    <string name="slide_3_title">Save</string>
+    <string name="slide_3_desc">Save your favourite meal combos</string>
+
+    <string name="slide_4_title">Account</string>
+    <string name="slide_4_desc">Manage account and payments in the app!</string>
+
+
+
+</resources>
